@@ -1,0 +1,32 @@
+aid: telize
+name: Telize
+description: "Telize offers location information from any IP address"
+url: https://rapidapi.com/fcambus/api/telize/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: Telize
+    description: "Telize offers location information from any IP address"
+    humanURL: https://rapidapi.com/fcambus/api/telize/
+    baseURL: https://rapidapi.com/fcambus/api/telize/
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://rapidapi.com/fcambus/api/telize/
+common:
+  - type: Website
+    url: https://rapidapi.com/fcambus/api/telize/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
